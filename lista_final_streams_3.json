@@ -57,7 +57,7 @@
       {
         "id": 5,
         "icon": "http://static.tvar.io/imagenes/eltrece.png",
-        "name": "EL TRECE",
+        "name": "EL TRECE ARGENTINO",
         "streams": [
           {
             "drm_scheme": "clearkey",
@@ -1856,7 +1856,7 @@
       {
         "id": 149,
         "icon": "http://static.tvar.io/imagenes/discoveryid.png",
-        "name": "DISCOVERY ID",
+        "name": "INVETIGATION DISCOVERY",
         "streams": [
           {
             "drm_scheme": "clearkey",
