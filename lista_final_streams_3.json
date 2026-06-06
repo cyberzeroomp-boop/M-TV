@@ -57,7 +57,7 @@
       {
         "id": 5,
         "icon": "http://static.tvar.io/imagenes/eltrece.png",
-        "name": "EL TRECE ARGENTINO",
+        "name": "EL TRECE HD",
         "streams": [
           {
             "drm_scheme": "clearkey",
@@ -96,7 +96,7 @@
       {
         "id": 8,
         "icon": "http://static.tvar.io/imagenes/elnueve.png",
-        "name": "CANAL 9",
+        "name": "El NUEVE",
         "streams": [
           {
             "drm_scheme": "clearkey",
@@ -148,7 +148,7 @@
       {
         "id": 12,
         "icon": "http://static.tvar.io/imagenes/canal26.png",
-        "name": "CANAL 26",
+        "name": "26 HD",
         "streams": [
           {
             "drm_scheme": "clearkey",
@@ -293,7 +293,7 @@
       {
         "id": 23,
         "icon": "http://static.tvar.io/imagenes/tntsports.png",
-        "name": "tnt sport",
+        "name": "TNT SPORT",
         "streams": [
           {
             "drm_scheme": "clearkey",
@@ -1856,7 +1856,7 @@
       {
         "id": 149,
         "icon": "http://static.tvar.io/imagenes/discoveryid.png",
-        "name": "INVETIGATION DISCOVERY",
+        "name": "DISCOVERY ID",
         "streams": [
           {
             "drm_scheme": "clearkey",
