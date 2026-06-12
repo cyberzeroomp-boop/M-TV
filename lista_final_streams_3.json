@@ -592,9 +592,10 @@
         "streams": [
           {
             "drm_scheme": "clearkey",
-            "uri": "F8Pop+URHMx+hBDU2mWOTOEr+LLGyOiDODO9m5LqCR196IWpssTerIux2/u8OsupQCyWRqc7VQDHh124Fe7ts6HujBVX/8ZjC18qCSUk9UJKNseXROoWc4GL0cnYtNH/",
-            "drm_license_url": "DLBUdF/otD15vUdPebAl+vyq8IRsKEh349M46RnYYEOcbcPzjH80XIkw4d4Exe4biFdbIaT2Zw3o1cJXgXuG5A==",
-            "headers": "ev4H06goggH+u1/QMBIWSLXPqeP8NFYB23dDbvGTA3nOFCJ5RHdSTQeM71H4+E2zWTX0wOYU767EaVnwyFSuh2OVlZzpQBI5HCUdg02T5BIw9WfAJzklneitEmXxNX2U/BOltzMNsN6Js+p2wF2VsEmswPiQiaTQCozNh75zfPsSIACTgTjHTqgoCHq/J4Zh"
+            "uri": "OeXyxtlYEFiYOGQ+GIYrvSZYBmSDuNWELR5IH7KOLeY8Gy6talkd5YTUUZ6PxAYMZ7OsvLNZWQaKkkijo/vNPj4Nbfe+4bl/SnTDMqGsw1w=",
+            "drm_license_url": "DLBUdF/otD15vUdPebAl+vyq8IRsKEh349M46RnYYEMJRSPf4AocjJNFZ9UUkNwcRmZcqJ51xd3OVqv8O3LZsDj34rXAqlR4V5XWSF8Qb1g=",
+            "cookie_url": "http://cdn.tvar.io/5239239239.json",
+            "headers": "ISuD+xNp+SxRERY9cJ0f8FrIzcwaKXUfWukaa8I7I0FqamF2g3TNkqZikwYSK+veG4XaUjzAcNsWU/tlWkOMnSuxJaijJFdzym/c7jfDZGpw6+rzw/Ef7hr3FQZXFcaxAXkz68r3+SFVpjNxaPLpj80KaaGA9wU8ilfqTyc2CFI/t2frCfMQPPaV6eV7ClkO"
           }
         ]
       },
@@ -604,10 +605,11 @@
         "name": "Identidad 2",
         "streams": [
           {
-            "drm_license_url": "DLBUdF/otD15vUdPebAl+vyq8IRsKEh349M46RnYYEMbOb/HtceFQAuoRcKTqs9oPcNHaIG24npcXjVJVAO+RA==",
             "drm_scheme": "clearkey",
-            "uri": "TpT8/mON2SZEqBnPklEOizkz848cS7HbDJXPW3bPB8W5609SSQY33B2uZH307fZpwPa3tgyVGJsx9cbVU66XM9Ycum9NC6lE4ltbRqqWOt5wUJQHf4jqnSpCYeru8frU",
-            "headers": "ev4H06goggH+u1/QMBIWSLXPqeP8NFYB23dDbvGTA3nOFCJ5RHdSTQeM71H4+E2zWTX0wOYU767EaVnwyFSuh2OVlZzpQBI5HCUdg02T5BIw9WfAJzklneitEmXxNX2U/BOltzMNsN6Js+p2wF2VsEmswPiQiaTQCozNh75zfPsSIACTgTjHTqgoCHq/J4Zh"
+            "uri": "iXej0VKJnkH3mtiOnZKbQwUmGBCgvNIKGyMal5EiHexOWc4vPAWx8N4mpXhBEPvYvt/vduwMDnjVlc9rU0N5NWmkpFffI2TNvp8RLs8C78k=",
+            "drm_license_url": "DLBUdF/otD15vUdPebAl+vyq8IRsKEh349M46RnYYEO+wwbVruLoSdQ3tP4RX8H7kev5ERq8Q+NJDAOoSlbRRwVj8eKcVLqPP2Gd8cE7/nk=",
+            "cookie_url": "http://cdn.tvar.io/5239239239.json",
+            "headers": "ISuD+xNp+SxRERY9cJ0f8FrIzcwaKXUfWukaa8I7I0FqamF2g3TNkqZikwYSK+veG4XaUjzAcNsWU/tlWkOMnSuxJaijJFdzym/c7jfDZGpw6+rzw/Ef7hr3FQZXFcaxAXkz68r3+SFVpjNxaPLpj80KaaGA9wU8ilfqTyc2CFI/t2frCfMQPPaV6eV7ClkO"
           }
         ]
       },
@@ -4269,11 +4271,14 @@
     "lista": [
       {
         "id": 353,
-        "icon": "https://i.postimg.cc/8k4bDv32/viaja-al-mas-alla.png",
-        "name": "VIAJAR TV",
+        "icon": "http://static.tvar.io/imagenes/globo.png",
+        "name": "GLOBO",
         "streams": [
           {
-            "uri": "LUPOtyOkrugjVNZQ/0/0Czz4MtmXNPf+A6zcZP5MjoZ5boNTB9DJ78BSzGg/yK9KV3kkaIVap2Fbl5ko87hpPmjfi9Ne0Cg/fWijCEKAZZs=",
+            "drm_scheme": "clearkey",
+            "uri": "vIbcAJel8FKHMrnHebJeyur72bUi9wdThoh1cb7vnWutSs8J60sxhQfdST9FGkzB2WmqIJGuo3i9cl6IyEf9zw==",
+            "drm_license_url": "DLBUdF/otD15vUdPebAl+vyq8IRsKEh349M46RnYYEPSRhucWpFIYSNEMF1FDr49MLuvCQQufewJDdyZb4WTRYahe3gYabCdFTY3ti63Ysk=",
+            "cookie_url": "http://cdn.tvar.io/5239239239.json",
             "headers": "ev4H06goggH+u1/QMBIWSLXPqeP8NFYB23dDbvGTA3nOFCJ5RHdSTQeM71H4+E2zWTX0wOYU767EaVnwyFSuh2OVlZzpQBI5HCUdg02T5BIw9WfAJzklneitEmXxNX2U/BOltzMNsN6Js+p2wF2VsEmswPiQiaTQCozNh75zfPsSIACTgTjHTqgoCHq/J4Zh"
           }
         ]
