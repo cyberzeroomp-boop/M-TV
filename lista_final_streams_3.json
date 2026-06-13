@@ -241,25 +241,25 @@
   {
     "name": "DEPORTIVOS",
     "lista": [
-      {
+       {
         "id": 19,
-        "icon": "http://static.tvar.io/imagenes/evento.png",
-        "name": "intermiami",
+        "icon": "http://mtd.llc/img/copalogo.png",
+        "name": "Mundial 2026",
         "streams": [
           {
-            "uri": "ZCdhn3yE1LrTBBn/Bbv4wGaMUYpG1nF9nJkpJlO+F6wQ4f97HAwH5FQvvvVAe1xpQGl1PRr0xeusys3JyqfR5dtZVsQ9A4wr24Jp6CvxKfw=",
-            "headers": "W9GgLd6Iwq6CvVBSYg8B+plK/K2xPs0/vHUzMIXJ9BWX1KF222PBtBvevOZl+xB4w0ye2FANIUxwnwTDUUOOVkczhe03wqa2LTa+rpnTF4AiSG4ulYxnHixDwKDTplljAW3Vl1SYykOhg/BOiXOSVARsysWWf0hwZtDVYI2hQw1eVTblXtovZv20t1mlCrR/8JQM7lqzjiTsN3oSt7Pm6nG8LlLbGUVTRiVNPaH24K4="
+            "uri": "K0m+j5+5tnUq5FsNMevr6IU/E/lLJb34PdwdXmGjsfqXW8kbbFim+y48iOgS+ehq9gUW/dWzann7wRYFDbDRKQ==",
+        "headers": "ev4H06goggH+u1/QMBIWSLXPqeP8NFYB23dDbvGTA3nOFCJ5RHdSTQeM71H4+E2zWTX0wOYU767EaVnwyFSuh2OVlZzpQBI5HCUdg02T5BIw9WfAJzklneitEmXxNX2U/BOltzMNsN6Js+p2wF2VsEmswPiQiaTQCozNh75zfPsSIACTgTjHTqgoCHq/J4Zh"
           }
         ]
       },
       {
         "id": 20,
-        "icon": "http://static.tvar.io/imagenes/evento.png",
-        "name": "BelgranoySArmiento",
+        "icon": "http://mtd.llc/img/copalogo.png",
+        "name": "Mundial 2026",
         "streams": [
           {
-            "uri": "j+5QgadwsbgJLqOOfjt6uTqGDaNNHDjyXKNwqZuRZXiB0XFkAAxVFtu3KNPR/jK9Fp0XB7+rzK8mCGubzQ6fyuj5J+eXaaQJZIWau6wbZkYctX9A5ymsDp7GlKPDSJeZYr6GdHdUearm8XaL41lWYdjhvSSuF+C/Ja/zFx71GYkpzShGB2wkDTiOrcarbJvy",
-            "headers": "W9GgLd6Iwq6CvVBSYg8B+plK/K2xPs0/vHUzMIXJ9BWX1KF222PBtBvevOZl+xB4w0ye2FANIUxwnwTDUUOOVkczhe03wqa2LTa+rpnTF4AiSG4ulYxnHixDwKDTplljAW3Vl1SYykOhg/BOiXOSVARsysWWf0hwZtDVYI2hQw1eVTblXtovZv20t1mlCrR/8JQM7lqzjiTsN3oSt7Pm6nG8LlLbGUVTRiVNPaH24K4="
+           "uri": "2SQBxY24zIqMuu8+qXw421hbuihlgoG6Ou072IiQRmpNjaWtOR0Ut0pBiYYHV0HC97y+3iUBxczfkhvqCORYMA==",
+        "headers": "ev4H06goggH+u1/QMBIWSLXPqeP8NFYB23dDbvGTA3nOFCJ5RHdSTQeM71H4+E2zWTX0wOYU767EaVnwyFSuh2OVlZzpQBI5HCUdg02T5BIw9WfAJzklneitEmXxNX2U/BOltzMNsN6Js+p2wF2VsEmswPiQiaTQCozNh75zfPsSIACTgTjHTqgoCHq/J4Zh"
           }
         ]
       },
@@ -588,13 +588,10 @@
       {
         "id": 46,
         "icon": "http://static.tvar.io/imagenes/identidadpe.png",
-        "name": "Identidad 1",
+        "name": "IDENTIDAD 1",
         "streams": [
           {
-        "drm_license_url": "DLBUdF/otD15vUdPebAl+vyq8IRsKEh349M46RnYYEP3AH9D50kAj0km4b/ISXHyBhNcoC3BcK6lnkl0ZDEPSzGE8HzAs50ycaa1tSjcxHq4nti2qsFbKBXbsxFV5yFR",
-        "drm_scheme": "clearkey",
-        "uri": "F8Pop+URHMx+hBDU2mWOTOEr+LLGyOiDODO9m5LqCR196IWpssTerIux2/u8OsupQCyWRqc7VQDHh124Fe7ts6HujBVX/8ZjC18qCSUk9UJKNseXROoWc4GL0cnYtNH/",
-        "cookie_url": "http://cdn.tvar.io/5239239239.json",
+            "uri": "t71QALOHt1/AqUU1qQCmAv+4Xr9qd68foNiiw8C0EXYUu6l7+jYUX7xI2MMAHgU/",
         "headers": "ev4H06goggH+u1/QMBIWSLXPqeP8NFYB23dDbvGTA3nOFCJ5RHdSTQeM71H4+E2zWTX0wOYU767EaVnwyFSuh2OVlZzpQBI5HCUdg02T5BIw9WfAJzklneitEmXxNX2U/BOltzMNsN6Js+p2wF2VsEmswPiQiaTQCozNh75zfPsSIACTgTjHTqgoCHq/J4Zh"
           }
         ]
@@ -602,14 +599,11 @@
       {
         "id": 47,
         "icon": "http://static.tvar.io/imagenes/identidadpe.png",
-        "name": "Identidad 2",
+        "name": "IDENTIDAD 2",
         "streams": [
           {
-        "drm_scheme": "clearkey",
-        "uri": "Hj/vXqeTP5H/yXhx6gkTlZjyu4GR0ADfYPcpjKx7wrLdO+tq2WVhjA/XxFO6cgK9PxZgCYI4tmj9PYQvmIdBl+UON+70OrLsbwf1GpG/OhFcYNEYQwy1sVKm84cQ+vPbOAAwho3LwXCzzq7wHyjz+PPgQ0p3YxKl5Ua9YYtZfTk=",
-        "drm_license_url": "DLBUdF/otD15vUdPebAl+vyq8IRsKEh349M46RnYYEP3AH9D50kAj0km4b/ISXHyBhNcoC3BcK6lnkl0ZDEPSzGE8HzAs50ycaa1tSjcxHq4nti2qsFbKBXbsxFV5yFR",
-        "cookie_url": "http://cdn.tvar.io/5239239239.json",
-        "headers": "ev4H06goggH+u1/QMBIWSLXPqeP8NFYB23dDbvGTA3nOFCJ5RHdSTQeM71H4+E2zWTX0wOYU767EaVnwyFSuh2OVlZzpQBI5HCUdg02T5BIw9WfAJzklneitEmXxNX2U/BOltzMNsN6Js+p2wF2VsEmswPiQiaTQCozNh75zfPsSIACTgTjHTqgoCHq/J4Zh"
+            "uri": "VGfs83oLdXFQQg1Bqzw0Z4LwISDqiE8554S1NC05zytWeJiiotniMpBU45KJpdPbIdg6D+IQqhp4AKLB3d/G0lY7hfUvZil9W/YxKnyf+JA=",
+        "headers": "W9GgLd6Iwq6CvVBSYg8B+plK/K2xPs0/vHUzMIXJ9BWX1KF222PBtBvevOZl+xB4w0ye2FANIUxwnwTDUUOOVkczhe03wqa2LTa+rpnTF4AiSG4ulYxnHixDwKDTplljAW3Vl1SYykOhg/BOiXOSVARsysWWf0hwZtDVYI2hQw1eVTblXtovZv20t1mlCrR/i6grEuRtfk1MiHA2Y6L+Q9EGUiQtKnoYsRUgvIxX0sE="
           }
         ]
       },
