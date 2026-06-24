@@ -2936,8 +2936,9 @@
             "headers": "ev4H06goggH+u1/QMBIWSLXPqeP8NFYB23dDbvGTA3nOFCJ5RHdSTQeM71H4+E2zWTX0wOYU767EaVnwyFSuh2OVlZzpQBI5HCUdg02T5BIw9WfAJzklneitEmXxNX2U/BOltzMNsN6Js+p2wF2VsEmswPiQiaTQCozNh75zfPsSIACTgTjHTqgoCHq/J4Zh"
           }
         ]
+      }
+    ]
   },
-
   {
     "name": "SERIES ANIMADAS 24/7",
     "icon_category": "http://static.tvar.io/imagenes/247.png",
@@ -5334,7 +5335,4 @@
       }
     ]
   }
-]
-
-}
 ]
